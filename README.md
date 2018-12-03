@@ -1,2 +1,2 @@
 # Atom
-Tips forAtom
+Tips for Atom
